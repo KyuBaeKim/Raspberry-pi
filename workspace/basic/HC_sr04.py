@@ -20,4 +20,20 @@ time.sleep(2) # 신호 안정화를 위해 2초간 대기
 
 try:
     while True:
-        GPIO.output(TRIG, True) # Trigger 
+        GPIO.output(TRIG, True) # Trigger 핀에 펄스신호를 만들기 위해 1 출력
+        time.sleep(0.00001) # 10us 딜레이
+        GPIO.output(TRIG, False)
+
+        while GPIO.input(ECHO) == 0:
+            start = time.time() # Echo 핀 상승 시간
+        while GPIO.input(ECHO) == 1:
+            stop = time.time() # Echo 핀 하강 시간
+        
+        check_time = stop - start
+        distance = check_time * 34300 / 2
+        print("Distance : %.1f cm" %distance)
+        time.sleep(0.4) # 0.4초 간격으로 센서 측정
+        
+except KeyboardInterrupt:
+    print("Measurement stopped by User")
+    GPIO.cleanup()

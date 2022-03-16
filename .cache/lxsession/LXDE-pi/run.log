@@ -148,3 +148,15 @@ Unit pi-topd.service could not be found.
 ** Message: 10:38:29.134: up: Checking for updates
 ** Message: 10:38:32.431: up: Cache updated - comparing versions
 ** Message: 10:38:36.727: up: Check complete - 10 updates available
+[4315:4315:0316/131132.105578:ERROR:component_loader.cc(188)] Failed to parse extension manifest.
+[4392:4392:0316/131132.193304:ERROR:gpu_init.cc(454)] Passthrough is not supported, GL is egl, ANGLE is 
+[4315:4517:0316/131133.359640:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4315:4517:0316/131133.362513:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4315:4517:0316/131133.366468:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4315:4370:0316/131138.597404:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+[4315:4370:0316/131138.597506:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+[4392:4415:0316/131150.692258:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 274C1BE380205CFA.45077161BCE24F1C
+[4392:4415:0316/131725.136277:ERROR:node_controller.cc(585)] Trying to re-add dropped peer AE2A3075E058CB5F.BEC73C092256A229
+[4403:4:0316/131725.137170:ERROR:node_controller.cc(585)] Trying to re-add dropped peer AE2A3075E058CB5F.BEC73C092256A229
+[4403:4:0316/132856.918693:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 882A587A7DB9A39A.B9E84D63EF0A5CB4
+[4396:4399:0316/132856.920660:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 882A587A7DB9A39A.B9E84D63EF0A5CB4

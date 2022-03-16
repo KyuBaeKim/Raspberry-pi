@@ -1,0 +1,44 @@
+Visual Studio Code (1.65.2, ssh-remote, desktop)
+Jupyter Extension Version: 2022.2.1030672458.
+Python Extension Version: 2022.2.1924087327.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 10:20:36: ZMQ install verified.
+Info 10:20:53: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 10:20:53: Getting activation commands for /bin/python are not cached. May take a while.
+Info 10:31:02: Shutting down notebooks for 681f1834-728c-4fce-81b0-2d95a685e55b
+Info 10:31:02: Disposing HostJupyterExecution 0e42c2e2-a5fa-4b78-9840-ce1190462b7b
+Info 10:31:02: Disposing super HostJupyterExecution 0e42c2e2-a5fa-4b78-9840-ce1190462b7b
+Info 10:31:02: Disposing HostJupyterExecution 0e42c2e2-a5fa-4b78-9840-ce1190462b7b
+Info 10:31:02: Finished disposing HostJupyterExecution  0e42c2e2-a5fa-4b78-9840-ce1190462b7b
+Info 10:31:02: Cleaning up server cache 0e42c2e2-a5fa-4b78-9840-ce1190462b7b
+Info 10:31:02: Finished disposing HostJupyterExecution  0e42c2e2-a5fa-4b78-9840-ce1190462b7b
+Error 10:31:02: stat() failed for "/home/pi/.conda/environments.txt" [Canceled (FileSystemError): Canceled
+	at Function._handleError (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:84227)
+	at Object.stat (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:82155)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.localPathExists (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:116396)
+	at async b.getCondaEnvsFromEnvFile (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:135879)
+	at async b.monitorCondaEnvFile (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:135225)] {
+  code: 'Unknown'
+}
+Error 10:31:02: Failed to parse env file /home/pi/.env [Canceled (FileSystemError): Canceled
+	at Function._handleError (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:84227)
+	at Object.readFile (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:82701)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:116033)
+	at async parseFile (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:251085)
+	at async Promise.all (index 1)
+	at async r.getActivatedEnvironmentVariablesOurselves (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:143562)] {
+  code: 'Unknown'
+}
+Error 10:31:02: Failed to parse env file /home/pi/.env [Canceled (FileSystemError): Canceled
+	at Function._handleError (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:84227)
+	at Object.readFile (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:82701)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:116033)
+	at async parseFile (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:251085)
+	at async Promise.all (index 1)
+	at async r.getActivatedEnvironmentVariablesFromPython (/home/pi/.vscode-server/extensions/ms-toolsai.jupyter-2022.2.1030672458/out/client/extension.js:2:142157)] {
+  code: 'Unknown'
+}

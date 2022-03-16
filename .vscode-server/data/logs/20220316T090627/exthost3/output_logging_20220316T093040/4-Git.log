@@ -1,0 +1,56 @@
+[2022-03-16T00:30:43.560Z] Validating found git in: git
+[2022-03-16T00:30:43.695Z] Using git 2.30.2 from git
+[2022-03-16T01:13:12.270Z] > git init [31ms]
+[2022-03-16T01:13:12.271Z] hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+[2022-03-16T01:13:12.321Z] > git init [15ms]
+[2022-03-16T01:13:12.363Z] > git init [24ms]
+[2022-03-16T01:13:12.365Z] > git init [6ms]
+[2022-03-16T01:13:12.405Z] > git init [24ms]
+[2022-03-16T01:13:12.428Z] > git init [27ms]
+[2022-03-16T01:13:12.448Z] > git init [23ms]
+[2022-03-16T01:13:12.451Z] > git init [6ms]
+[2022-03-16T01:13:20.267Z] > git rev-parse --git-dir [3ms]
+[2022-03-16T01:13:20.290Z] Open repository: /home/pi
+[2022-03-16T01:13:20.384Z] > git fetch [71ms]
+[2022-03-16T01:13:20.567Z] > git symbolic-ref --short HEAD [3ms]
+[2022-03-16T01:13:20.587Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [3ms]
+[2022-03-16T01:13:20.624Z] > git remote --verbose [4ms]
+[2022-03-16T01:13:20.625Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+[2022-03-16T01:13:26.159Z] > git config --get commit.template [31ms]
+[2022-03-16T01:13:26.434Z] > git symbolic-ref --short HEAD [5ms]
+[2022-03-16T01:13:26.457Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [3ms]
+[2022-03-16T01:13:26.499Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+[2022-03-16T01:13:26.500Z] > git remote --verbose [5ms]
+[2022-03-16T01:13:36.150Z] > git config --get commit.template [42ms]
+[2022-03-16T01:13:37.510Z] > git symbolic-ref --short HEAD [3ms]
+[2022-03-16T01:13:37.535Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [3ms]
+[2022-03-16T01:13:37.581Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+[2022-03-16T01:13:37.582Z] > git remote --verbose [3ms]
+[2022-03-16T01:13:47.002Z] > git config --get commit.template [43ms]
+[2022-03-16T01:16:36.228Z] > git fetch [21ms]
+[2022-03-16T01:16:36.469Z] > git symbolic-ref --short HEAD [3ms]
+[2022-03-16T01:16:36.492Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [3ms]
+[2022-03-16T01:16:36.532Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+[2022-03-16T01:16:36.534Z] > git remote --verbose [4ms]
+[2022-03-16T01:16:46.036Z] > git config --get commit.template [47ms]
+[2022-03-16T01:19:46.119Z] > git fetch [15ms]
+[2022-03-16T01:19:46.387Z] > git symbolic-ref --short HEAD [3ms]
+[2022-03-16T01:19:46.416Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [3ms]
+[2022-03-16T01:19:46.467Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+[2022-03-16T01:19:46.468Z] > git remote --verbose [5ms]
+[2022-03-16T01:19:56.053Z] > git config --get commit.template [58ms]
+[2022-03-16T01:22:56.120Z] > git fetch [15ms]
+[2022-03-16T01:22:56.378Z] > git symbolic-ref --short HEAD [3ms]
+[2022-03-16T01:22:56.403Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [3ms]
+[2022-03-16T01:22:56.450Z] > git remote --verbose [4ms]
+[2022-03-16T01:22:56.451Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-03-16T01:23:05.906Z] > git config --get commit.template [65ms]

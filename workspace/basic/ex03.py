@@ -1,0 +1,1 @@
+print("hello world!")print('Hello ex02')print("hello world!")print('Hello ex02')

@@ -799,3 +799,41 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[2022-03-17T04:39:53.628Z] > git add -A -- . [13973ms]
+[2022-03-17T04:39:53.628Z] warning: adding embedded git repository: workspace/Opencv
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> workspace/Opencv
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached workspace/Opencv
+hint: 
+hint: See "git help submodule" for more information.
+[2022-03-17T04:39:54.072Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [421ms]
+[2022-03-17T04:39:54.930Z] > git add -A -- . [679ms]
+[2022-03-17T04:39:55.106Z] > git symbolic-ref --short HEAD [30ms]
+[2022-03-17T04:39:55.142Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [184ms]
+[2022-03-17T04:39:55.142Z] fatal: Unable to create '/home/pi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[2022-03-17T04:39:55.174Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [34ms]
+[2022-03-17T04:39:55.225Z] > git add -A -- . [124ms]
+[2022-03-17T04:39:55.225Z] fatal: Unable to create '/home/pi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[2022-03-17T04:39:55.231Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+[2022-03-17T04:39:55.232Z] > git config --get-all user.name [64ms]
+[2022-03-17T04:39:55.258Z] > git remote --verbose [34ms]

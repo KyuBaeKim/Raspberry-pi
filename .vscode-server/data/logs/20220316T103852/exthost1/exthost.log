@@ -981,3 +981,6 @@
 [2022-03-16 16:30:15.966] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1109
 [2022-03-16 16:30:21.378] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1109
 [2022-03-16 16:30:31.962] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1109
+[2022-03-16 21:28:18.355] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2022-03-16 21:28:18.391] [exthost] [info] Lock '/home/pi/.vscode-server/data/User/workspaceStorage/527f972cc57f3c538a5e653c4192c8c2/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-03-16 21:28:18.535] [exthost] [info] Extension host with pid 1676 exiting with code 0

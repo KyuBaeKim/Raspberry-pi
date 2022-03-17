@@ -1,0 +1,26 @@
+[Info  - 09:16:46] (1772) Pylance language server 2022.3.1 (pyright bd47ac0b) starting
+[Info  - 09:16:47] (1772) Server root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.1/dist
+[Info  - 09:16:47] (1772) No configuration file found.
+[Info  - 09:16:47] (1772) No pyproject.toml file found.
+[Info  - 09:16:47] (1772) Setting pythonPath for service "pi": "/bin/python"
+[Warn  - 09:16:47] (1772) stubPath /home/pi/typings is not a valid directory.
+[Info  - 09:16:47] (1772) Assuming Python version 3.9
+[Info  - 09:16:47] (1772) Assuming Python platform Linux
+[Warn  - 09:16:48] (1772) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:16:48] (1772) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:16:48] (1772) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:16:48] (1772) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:16:48] (1772) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:16:48] (1772) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 09:16:48] (1772) Searching for source files
+[Info  - 09:16:49] (1772) Found 24 source files
+[Info  - 09:16:49] (1772) Background analysis(1) root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.1/dist
+[Info  - 09:16:49] (1772) Background analysis(1) started
+[Info  - 09:16:50] (1772) Indexer background runner(2) root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.1/dist (index)
+[Info  - 09:16:50] (1772) Indexing(2) started
+[Info  - 09:16:51] (1772) [BG(1)] Long operation: getSemanticTokens full at /home/pi/workspace/zero/Motion_sensor.py (2095ms)
+[Info  - 09:16:55] (1772) [IDX(2)] Long operation: index execution environment /home/pi (3492ms)
+[Info  - 09:16:55] (1772) [IDX(2)] Long operation: index libraries /home/pi (4722ms)
+[Info  - 09:16:55] (1772) Indexer done(2). indexed 447 files
+[Info  - 09:16:58] (1772) Searching for source files
+[Info  - 09:16:58] (1772) Found 25 source files

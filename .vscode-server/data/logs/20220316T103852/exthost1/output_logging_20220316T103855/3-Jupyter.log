@@ -8,3 +8,10 @@ Info 10:39:06: Experiment status for python is {"enabled":true,"optInto":[],"opt
 Info 10:39:06: Getting activation commands for /bin/python are not cached. May take a while.
 Info 10:39:27: Process Execution: > /bin/python -m pip list
 > /bin/python -m pip list
+Info 21:28:18: Shutting down notebooks for 928735c8-33cf-477e-933e-cb28ccd27249
+Info 21:28:18: Disposing HostJupyterExecution 34642213-7eff-4940-ae04-29d56ac27320
+Info 21:28:18: Disposing super HostJupyterExecution 34642213-7eff-4940-ae04-29d56ac27320
+Info 21:28:18: Disposing HostJupyterExecution 34642213-7eff-4940-ae04-29d56ac27320
+Info 21:28:18: Finished disposing HostJupyterExecution  34642213-7eff-4940-ae04-29d56ac27320
+Info 21:28:18: Cleaning up server cache 34642213-7eff-4940-ae04-29d56ac27320
+Info 21:28:18: Finished disposing HostJupyterExecution  34642213-7eff-4940-ae04-29d56ac27320

@@ -1,0 +1,13 @@
+[2022-03-17 13:09:38.132] [remoteagent] [info] Extension host agent started.
+[2022-03-17 13:09:38.641] [remoteagent] [error] [127.0.0.1][f4db2ea3][ManagementConnection] Unknown reconnection token (never seen).
+[2022-03-17 13:09:38.643] [remoteagent] [error] [127.0.0.1][6ca4c4b9][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2022-03-17 13:09:49.883] [remoteagent] [info] [127.0.0.1][ea2dd1c5][ManagementConnection] New connection established.
+[2022-03-17 13:09:49.894] [remoteagent] [info] [127.0.0.1][9603bf3e][ExtensionHostConnection] New connection established.
+[2022-03-17 13:09:49.916] [remoteagent] [info] [127.0.0.1][9603bf3e][ExtensionHostConnection] <1628> Launched Extension Host Process.
+[2022-03-17 13:09:54.794] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-03-17 13:09:55.029] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-03-17 13:10:03.575] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/pi/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.3.2
+[2022-03-17 13:10:24.021] [remoteagent] [info] Extracted extension to /home/pi/.vscode-server/extensions/.4a82309d-8437-41dd-b378-35cce5184c3d: ms-python.vscode-pylance
+[2022-03-17 13:10:24.086] [remoteagent] [info] Renamed to /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2
+[2022-03-17 13:10:24.090] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-03-17 13:10:24.099] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance

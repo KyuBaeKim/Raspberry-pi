@@ -1,6 +1,6 @@
 1.2
 lxde-pi-applications.menu+hidden
-18
+19
 D/home/pi/.local/share/desktop-directories
 D/usr/share/fkms/desktop-directories
 D/usr/local/share/desktop-directories
@@ -13,6 +13,7 @@ D/usr/share/fkms/applications
 D/usr/local/share/applications
 D/usr/share/raspi-ui-overrides/applications
 D/usr/share/applications
+D/usr/share/applications/inputmethods
 D/usr/share/gdm/applications
 D/var/lib/menu-xdg/applications
 D/etc/xdg/menus/applications-merged
@@ -917,6 +918,20 @@ pcmanfm %U
 pcmanfm
 
 FileManager;Utility;Core;GTK
+
+-inputmethods-matchbox-keyboard.desktop
+Keyboard
+Virtual Keyboard
+matchbox-keyboard.png
+matchbox-keyboard.desktop
+12
+
+matchbox-keyboard
+0
+0
+
+
+Panel;Utility;MB
 
 -qpdfview.desktop
 PDF Viewer

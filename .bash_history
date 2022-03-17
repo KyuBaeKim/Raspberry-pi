@@ -95,3 +95,39 @@ cd workspace/zero/
 /bin/python /home/pi/workspace/zero/Button3.py
 /bin/python /home/pi/workspace/zero/Button_controlled_LED.py
 /bin/python /home/pi/workspace/zero/Motion_sensor.py
+cd workspace/opencv/
+cd workspace/Opencv/
+python ex01.py
+python cv_ex01.py
+python cv_ex03.py
+/bin/python /home/pi/workspace/zero/Distance_Sensor.py
+/bin/python /home/pi/workspace/zero/Distance_Sensor_Led.py
+cd workspace/basic/
+/bin/python /home/pi/workspace/zero/Distance_Sensor_Led.py
+/ ~
+cd ~
+cd dev
+cd ..
+cd .
+cd ...
+cd /dev
+ls -l video*
+cd ~/workspace/opencv/
+cd ~/workspace/Opencv/
+ls -l install.sh
+chmod +x install.sh
+ls -l install.sh
+./install.sh
+sudo apt-getinstall-ylibatlas-base-devgfortranlibeigen3-dev
+sudo apt-get install -y libatlas-base-devgfortranlibeigen3-dev
+sudo apt-get install -y libavcodec-dev libavformat-dev libswscale-dev libxvidcore-dev libx264-dev libxine2-dev
+sudo apt-get install -y libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
+sudo apt-get install -y libatlas-base-dev gfortran libeigen3-dev
+sudo apt-get install matchbox-keyboard
+cd ..
+cd /usr/share/matchbox-keyboard/
+ls
+sudo cp ~/keyboard.xml .
+ls
+clear
+cd workspace/basic/

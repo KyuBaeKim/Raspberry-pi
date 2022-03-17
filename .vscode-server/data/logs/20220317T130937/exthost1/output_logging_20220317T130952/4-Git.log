@@ -837,3 +837,8 @@ remove the file manually to continue.
 [2022-03-17T04:39:55.231Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
 [2022-03-17T04:39:55.232Z] > git config --get-all user.name [64ms]
 [2022-03-17T04:39:55.258Z] > git remote --verbose [34ms]
+[2022-03-17T04:39:55.364Z] > git config --get-all user.email [108ms]
+[2022-03-17T04:39:55.435Z] > git config --get commit.template [72ms]
+[2022-03-17T04:39:55.437Z] > git add -A -- . [423ms]
+[2022-03-17T04:39:55.608Z] > git config --get commit.template [39ms]
+[2022-03-17T04:39:55.627Z] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [167ms]

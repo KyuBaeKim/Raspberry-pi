@@ -1,17 +1,17 @@
-2022/03/16-13:11:42.275 1112 Creating DB /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
-2022/03/16-13:11:42.314 1112 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2022/03/16-13:11:49.618 11e0 Level-0 table #5: started
-2022/03/16-13:11:49.755 11e0 Level-0 table #5: 1514198 bytes OK
-2022/03/16-13:11:49.761 11e0 Delete type=0 #3
-2022/03/16-13:15:37.679 11dc Level-0 table #7: started
-2022/03/16-13:15:37.829 11dc Level-0 table #7: 2041906 bytes OK
-2022/03/16-13:15:37.833 11dc Delete type=0 #4
-2022/03/16-13:21:42.863 1b0c Level-0 table #9: started
-2022/03/16-13:21:42.974 1b0c Level-0 table #9: 1700992 bytes OK
-2022/03/16-13:21:42.978 1b0c Delete type=0 #6
-2022/03/16-13:28:16.277 1f02 Level-0 table #11: started
-2022/03/16-13:28:16.406 1f02 Level-0 table #11: 1713481 bytes OK
-2022/03/16-13:28:16.410 1f02 Delete type=0 #8
-2022/03/16-13:28:16.857 1f02 Level-0 table #13: started
-2022/03/16-13:28:17.022 1f02 Level-0 table #13: 2753363 bytes OK
-2022/03/16-13:28:17.026 1f02 Delete type=0 #10
+2022/03/17-15:23:43.358 4dee Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/03/17-15:23:43.359 4dee Recovering log #12
+2022/03/17-15:23:43.375 4dee Reusing old log /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000012.log 
+2022/03/17-15:28:32.251 4df5 Level-0 table #16: started
+2022/03/17-15:28:32.397 4df5 Level-0 table #16: 2396255 bytes OK
+2022/03/17-15:28:32.402 4df5 Delete type=0 #12
+2022/03/17-15:28:32.406 4df5 Compacting 4@0 + 1@1 files
+2022/03/17-15:28:32.661 4df5 Generated table #17@0: 16 keys, 2131665 bytes
+2022/03/17-15:28:33.013 4df5 Generated table #18@0: 8 keys, 3193747 bytes
+2022/03/17-15:28:33.109 4df5 Generated table #19@0: 12 keys, 769343 bytes
+2022/03/17-15:28:33.110 4df5 Compacted 4@0 + 1@1 files => 6094755 bytes
+2022/03/17-15:28:33.112 4df5 compacted to: files[ 0 3 1 0 0 0 0 ]
+2022/03/17-15:28:33.113 4df5 Delete type=2 #13
+2022/03/17-15:28:33.113 4df5 Delete type=2 #11
+2022/03/17-15:28:33.113 4df5 Delete type=2 #9
+2022/03/17-15:28:33.113 4df5 Delete type=2 #7
+2022/03/17-15:28:33.113 4df5 Delete type=2 #16

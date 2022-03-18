@@ -131,3 +131,31 @@ sudo cp ~/keyboard.xml .
 ls
 clear
 cd workspace/basic/
+/bin/python /home/pi/workspace/Opencv/ex03_2.py
+/bin/python /home/pi/workspace/Opencv/cv_ex07.py
+df
+df -ㅡ
+df -m
+/bin/python/home/pi/
+cd /bin
+cd.
+cd..
+cd ..
+/bin/python /home/pi/workspace/Opencv/upload_ex01.py
+/bin/python /home/pi/workspace/opencv/upload_ex01.py
+cd ~
+/bin/python /home/pi/workspace/opencv/upload_ex01.py
+/bin/python /home/pi/workspace/Opencv/upload_ex01.py
+cd workspace/Opencv/
+/bin/python /home/pi/workspace/Opencv/upload_ex01.py
+/bin/python /home/pi/workspace/Opencv/upload_ex01.py/bin/python /home/pi/workspace/Opencv/upload_ex01.py
+/bin/python /home/pi/workspace/Opencv/upload_ex01.py
+/bin/python /home/pi/workspace/Opencv/ex07_4.py
+/bin/python /home/pi/workspace/Opencv/upload_ex01.py
+/bin/python /home/pi/workspace/Opencv/openapi.py
+/bin/python /home/pi/workspace/Opencv/upload_ex01.py
+cd ~/workspace/Opencv/
+python ex03_2.py
+python ex_07_2.py
+python ex07_3.py
+python ex07_4.py

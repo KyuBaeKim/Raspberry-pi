@@ -25,3 +25,7 @@
 [Info  - 14:38:55] (14868) Found 53 source files
 [Info  - 14:44:24] (14868) Searching for source files
 [Info  - 14:44:24] (14868) Found 54 source files
+[Info  - 15:04:11] (14868) Searching for source files
+[Info  - 15:04:11] (14868) Found 55 source files
+[Info  - 15:04:17] (14868) [BG(1)] Long operation: checking: /home/pi/workspace/Opencv/detect/ex01.py (3409ms)
+[Info  - 15:04:17] (14868) [BG(1)] Long operation: analyzing: /home/pi/workspace/Opencv/detect/ex01.py (4737ms)

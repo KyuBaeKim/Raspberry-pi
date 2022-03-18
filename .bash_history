@@ -161,3 +161,6 @@ python ex07_3.py
 python ex07_4.py
 ifconfig
 ipconfig
+cd workspace/Opencv/detect/
+echo $PATH
+echo $PYTHONPATH

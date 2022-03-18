@@ -376,3 +376,6 @@
 [2022-03-18 10:35:21.142] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4119
 [2022-03-18 10:35:26.131] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4119
 [2022-03-18 10:35:35.782] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4119
+[2022-03-18 10:35:43.345] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4119
+[2022-03-18 11:26:33.034] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/operation' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-18 11:26:46.900] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/operation/op_ex01.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

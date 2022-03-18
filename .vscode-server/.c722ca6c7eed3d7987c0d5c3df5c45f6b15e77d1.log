@@ -5,11 +5,21 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:44913 (IPv4)
-Extension host agent listening on 44913
+Server bound to 127.0.0.1:37935 (IPv4)
+Extension host agent listening on 37935
 
-[09:23:58] Extension host agent started.
-[09:23:58] [127.0.0.1][b2a337d2][ManagementConnection] New connection established.
-[09:23:59] [127.0.0.1][99926320][ExtensionHostConnection] New connection established.
-[09:23:59] [127.0.0.1][99926320][ExtensionHostConnection] <1482> Launched Extension Host Process.
-[09:24:00] Deleted from disk ms-python.vscode-pylance /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.1
+[13:13:35] Extension host agent started.
+[13:13:35] [127.0.0.1][49cb059e][ManagementConnection] New connection established.
+[13:13:35] [127.0.0.1][97a08f8a][ExtensionHostConnection] New connection established.
+[13:13:35] [127.0.0.1][97a08f8a][ExtensionHostConnection] <2321> Launched Extension Host Process.
+[13:13:59] [127.0.0.1][49cb059e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:13:59] [127.0.0.1][97a08f8a][ExtensionHostConnection] <2321> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[13:13:59] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:14:06] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:14:06] Cancelling previous shutdown timeout
+[13:14:06] [127.0.0.1][a5496b27][ManagementConnection] New connection established.
+[13:14:06] [127.0.0.1][00cfacbb][ExtensionHostConnection] New connection established.
+[13:14:06] [127.0.0.1][00cfacbb][ExtensionHostConnection] <2434> Launched Extension Host Process.

@@ -3,3 +3,4 @@
 [2022-03-18 09:23:59.011] [remoteagent] [info] [127.0.0.1][99926320][ExtensionHostConnection] New connection established.
 [2022-03-18 09:23:59.055] [remoteagent] [info] [127.0.0.1][99926320][ExtensionHostConnection] <1482> Launched Extension Host Process.
 [2022-03-18 09:24:00.486] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.1
+[2022-03-18 11:50:50.279] [remoteagent] [info] [127.0.0.1][b2a337d2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

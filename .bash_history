@@ -159,3 +159,5 @@ python ex03_2.py
 python ex_07_2.py
 python ex07_3.py
 python ex07_4.py
+ifconfig
+ipconfig

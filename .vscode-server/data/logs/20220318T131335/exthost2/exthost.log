@@ -46,3 +46,4 @@
 [2022-03-18 13:21:55.874] [exthost] [error] Error: DisposableStore is missing...
 	at K._convertCompletionItem (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:105480)
 	at K.resolveCompletionItem (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:105260)
+[2022-03-18 13:25:56.848] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/turn_img.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

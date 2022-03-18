@@ -1,0 +1,25 @@
+[Info  - 14:34:04] (14868) Pylance language server 2022.3.2 (pyright d2d8122b) starting
+[Info  - 14:34:04] (14868) Server root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist
+[Info  - 14:34:04] (14868) No configuration file found.
+[Info  - 14:34:04] (14868) No pyproject.toml file found.
+[Info  - 14:34:04] (14868) Setting pythonPath for service "pi": "/usr/bin/python"
+[Warn  - 14:34:04] (14868) stubPath /home/pi/typings is not a valid directory.
+[Info  - 14:34:04] (14868) Assuming Python version 3.9
+[Info  - 14:34:04] (14868) Assuming Python platform Linux
+[Warn  - 14:34:06] (14868) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 14:34:06] (14868) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 14:34:06] (14868) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 14:34:06] (14868) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 14:34:06] (14868) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 14:34:06] (14868) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 14:34:06] (14868) Searching for source files
+[Info  - 14:34:06] (14868) Found 53 source files
+[Info  - 14:34:08] (14868) Background analysis(1) root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist
+[Info  - 14:34:08] (14868) Background analysis(1) started
+[Info  - 14:34:08] (14868) Indexer background runner(2) root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist (index)
+[Info  - 14:34:08] (14868) Indexing(2) started
+[Info  - 14:34:13] (14868) [IDX(2)] Long operation: index execution environment /home/pi (3998ms)
+[Info  - 14:34:13] (14868) [IDX(2)] Long operation: index libraries /home/pi (5298ms)
+[Info  - 14:34:13] (14868) Indexer done(2). indexed 448 files
+[Info  - 14:38:55] (14868) Searching for source files
+[Info  - 14:38:55] (14868) Found 53 source files

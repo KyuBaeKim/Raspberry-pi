@@ -5,23 +5,43 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:37935 (IPv4)
-Extension host agent listening on 37935
+Server bound to 127.0.0.1:44297 (IPv4)
+Extension host agent listening on 44297
 
-[13:13:35] Extension host agent started.
-[13:13:35] [127.0.0.1][49cb059e][ManagementConnection] New connection established.
-[13:13:35] [127.0.0.1][97a08f8a][ExtensionHostConnection] New connection established.
-[13:13:35] [127.0.0.1][97a08f8a][ExtensionHostConnection] <2321> Launched Extension Host Process.
-[13:13:59] [127.0.0.1][49cb059e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[13:13:59] [127.0.0.1][97a08f8a][ExtensionHostConnection] <2321> Extension Host Process exited with code: 0, signal: null.
+[13:47:47] Extension host agent started.
+[13:47:47] [127.0.0.1][a5496b27][ManagementConnection] Unknown reconnection token (never seen).
+[13:47:47] [127.0.0.1][00cfacbb][ExtensionHostConnection] Unknown reconnection token (never seen).
+[13:48:01] [127.0.0.1][957b0c0c][ManagementConnection] New connection established.
+[13:48:01] [127.0.0.1][ba6e06b0][ExtensionHostConnection] New connection established.
+[13:48:01] [127.0.0.1][ba6e06b0][ExtensionHostConnection] <1752> Launched Extension Host Process.
+rejected promise not handled within 1 second: Error: Could not find pty on pty host
+stack trace: Error: Could not find pty on pty host,    at o._throwIfNoPty (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:17:5354),    at o.updateIcon (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:17:1754),    at Object.call (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:13:8348),    at L.onPromise (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:4866),    at L.onRawMessage (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:4261),    at /home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:3553,    at a.invoke (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:8:145),    at I.fire (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:8:1856),    at process.f (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:6:34341),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty on pty host,    at o._throwIfNoPty (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:17:5354),    at o.updateIcon (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:17:1754),    at Object.call (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:13:8348),    at L.onPromise (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:4866),    at L.onRawMessage (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:4261),    at /home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:3553,    at a.invoke (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:8:145),    at I.fire (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:8:1856),    at process.f (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:6:34341),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+rejected promise not handled within 1 second: Error: Could not find pty on pty host
+stack trace: Error: Could not find pty on pty host,    at o._throwIfNoPty (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:17:5354),    at o.updateTitle (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:17:1694),    at Object.call (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:13:8348),    at L.onPromise (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:4866),    at L.onRawMessage (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:4261),    at /home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:3553,    at a.invoke (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:8:145),    at I.fire (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:8:1856),    at process.f (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:6:34341),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty on pty host,    at o._throwIfNoPty (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:17:5354),    at o.updateTitle (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:17:1694),    at Object.call (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:13:8348),    at L.onPromise (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:4866),    at L.onRawMessage (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:4261),    at /home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:12:3553,    at a.invoke (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:8:145),    at I.fire (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:8:1856),    at process.f (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/platform/terminal/node/ptyHostMain.js:6:34341),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+[13:48:09] [127.0.0.1][957b0c0c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:48:09] [127.0.0.1][ba6e06b0][ExtensionHostConnection] <1752> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
-[13:13:59] Last EH closed, waiting before shutting down
+[13:48:09] Last EH closed, waiting before shutting down
 Got delay-shutdown request while in shutdown timeout, delaying
-[13:14:06] Got delay-shutdown request while in shutdown timeout, delaying
+[13:48:14] Got delay-shutdown request while in shutdown timeout, delaying
 Cancelling previous shutdown timeout
-[13:14:06] Cancelling previous shutdown timeout
-[13:14:06] [127.0.0.1][a5496b27][ManagementConnection] New connection established.
-[13:14:06] [127.0.0.1][00cfacbb][ExtensionHostConnection] New connection established.
-[13:14:06] [127.0.0.1][00cfacbb][ExtensionHostConnection] <2434> Launched Extension Host Process.
+[13:48:14] Cancelling previous shutdown timeout
+[13:48:15] [127.0.0.1][f79d52a0][ManagementConnection] New connection established.
+[13:48:15] [127.0.0.1][dd7fa3c4][ExtensionHostConnection] New connection established.
+[13:48:15] [127.0.0.1][dd7fa3c4][ExtensionHostConnection] <1854> Launched Extension Host Process.
 New EH opened, aborting shutdown
-[13:19:06] New EH opened, aborting shutdown
+[13:53:14] New EH opened, aborting shutdown
+[14:32:36] [127.0.0.1][f79d52a0][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[14:33:54] [127.0.0.1][f79d52a0][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[14:33:54] [127.0.0.1][bb6a5e38][ManagementConnection] New connection established.
+[14:33:54] [127.0.0.1][36279f0f][ExtensionHostConnection] New connection established.
+[14:33:54] [127.0.0.1][36279f0f][ExtensionHostConnection] <14743> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "9": Replaying 42 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "10": Replaying 957 chars and 1 size events
+[14:38:55] [127.0.0.1][f79d52a0][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[14:38:55] [127.0.0.1][dd7fa3c4][ExtensionHostConnection] <1854> Extension Host Process exited with code: 0, signal: null.

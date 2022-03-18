@@ -35,3 +35,14 @@
 [2022-03-18 13:15:10.055] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
 [2022-03-18 13:15:10.553] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
 [2022-03-18 13:15:18.217] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/cvtColor.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-18 13:18:47.708] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-18 13:18:47.708] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-18 13:18:47.708] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-18 13:18:47.708] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-18 13:18:57.945] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/resize.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-18 13:20:22.676] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-03-18 13:20:22.677] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-03-18 13:21:55.874] [exthost] [error] [ms-python.python] provider FAILED
+[2022-03-18 13:21:55.874] [exthost] [error] Error: DisposableStore is missing...
+	at K._convertCompletionItem (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:105480)
+	at K.resolveCompletionItem (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:105260)

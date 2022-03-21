@@ -164,3 +164,24 @@ ipconfig
 cd workspace/Opencv/detect/
 echo $PATH
 echo $PYTHONPATH
+cd workspace/Opencv/
+cd detect/
+/usr/bin/python /home/pi/workspace/Opencv/ex08.py
+cd workspace/Opencv/
+/usr/bin/python /home/pi/workspace/Opencv/ex08.py
+python ex08.py
+cd detect/
+python ex08.py
+cd..
+cd ..
+python ex08.py
+cd de
+echo $PATH
+echo $PYTHONPATH
+python ex08.py
+cd workspace/Opencv/
+python ex08.py
+[A
+python ex08.py
+git clone https://github.com/KyuBaeKim/Raspberry-pi.git
+ifconfig

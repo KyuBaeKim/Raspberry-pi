@@ -143,3 +143,6 @@
 [2022-03-18 16:44:38.497] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/data/20220314_174702.mp4' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2022-03-18 16:44:38.497] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/data/20220314_174702.mp4' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2022-03-18 16:44:38.497] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/data/20220314_174702.mp4' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-18 17:49:24.138] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-03-18 17:49:24.141] [exthost] [info] Lock '/home/pi/.vscode-server/data/User/workspaceStorage/777a38bfa78b9f733e2b2b4fa2413d35/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-03-18 17:49:24.254] [exthost] [info] Extension host with pid 5169 exiting with code 0

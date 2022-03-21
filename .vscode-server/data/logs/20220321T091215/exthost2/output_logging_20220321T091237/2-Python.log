@@ -8,3 +8,4 @@ Experiment 'pythonInterpreterInfoUnpinned' is active
 Python interpreter path: /usr/bin/python
 > /bin/python ./.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/interpreterInfo.py
 Starting Pylance language server.
+> /usr/bin/python ./.vscode-server/extensions/ms-python.python-2022.2.1924087327/pythonFiles/normalizeSelection.py

@@ -142,3 +142,5 @@ Unit pi-topd.service could not be found.
 ** Message: 09:09:14.087: up: Cache updated - comparing versions
 ** Message: 09:09:19.802: up: Check complete - 14 updates available
 X connection to :0 broken (explicit kill or server shutdown).
+
+** (lxpanel:946): WARNING **: 14:11:24.587: lxpanel : X error: BadWindow (invalid Window parameter)

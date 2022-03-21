@@ -185,3 +185,7 @@ python ex08.py
 python ex08.py
 git clone https://github.com/KyuBaeKim/Raspberry-pi.git
 ifconfig
+cd workspace/thread_ex/
+python ex01.py
+cd workspace/Opencv/
+/usr/bin/python /home/pi/workspace/Opencv/ex07_4.py

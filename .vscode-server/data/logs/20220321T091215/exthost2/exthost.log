@@ -12,3 +12,81 @@
 [2022-03-21 09:28:59.115] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
 [2022-03-21 09:29:01.284] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
 [2022-03-21 09:29:01.862] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-21 09:43:27.774] [exthost] [error] [ms-python.python] provider FAILED
+[2022-03-21 09:43:27.775] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:134556)
+	at new n (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:134505)
+	at new n (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:120947)
+	at H (/home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:67:215021)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:67:220359)
+	at /home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:24:124218
+	at async f.provideDocumentSymbols (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 10:18:35.798] [exthost] [error] [ms-python.python] provider FAILED
+[2022-03-21 10:18:35.799] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:134556)
+	at new n (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:134505)
+	at new n (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:120947)
+	at H (/home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:67:215021)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:67:220359)
+	at /home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:24:124218
+	at async f.provideDocumentSymbols (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 10:18:36.257] [exthost] [error] [ms-python.python] provider FAILED
+[2022-03-21 10:18:36.258] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:134556)
+	at new n (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:134505)
+	at new n (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:120947)
+	at H (/home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:67:215021)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:67:220359)
+	at /home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:24:124218
+	at async f.provideDocumentSymbols (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 11:04:13.802] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.803] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.805] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.805] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.805] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.805] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.805] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.805] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.806] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.806] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.806] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.806] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.807] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.807] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.807] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.807] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:13.807] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:14.670] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/ex07_4.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:14.671] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/ex07_4.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:14.671] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/ex07_4.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:14.671] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/ex07_4.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:16.614] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex02.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:04:16.614] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex02.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:17:40.563] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:17:40.563] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:17:40.564] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:17:40.564] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:17:40.564] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:17:40.564] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/numpy_ex04.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:10.822] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/operation/op_ex01.py' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:11.972] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/detect/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:11.973] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/detect/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:11.973] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/detect/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:11.973] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/detect/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:11.973] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/detect/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:11.973] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/detect/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:11.973] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/detect/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 11:20:11.973] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pi/workspace/Opencv/detect/__pycache__' is in submodule 'workspace/Opencv'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-03-21 13:03:59.382] [exthost] [error] [ms-python.python] provider FAILED
+[2022-03-21 13:03:59.383] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:134556)
+	at new n (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:134505)
+	at new n (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:76:120947)
+	at H (/home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:67:215021)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:67:220359)
+	at /home/pi/.vscode-server/extensions/ms-python.python-2022.2.1924087327/out/client/extension.js:24:124218
+	at async f.provideDocumentSymbols (/home/pi/.vscode-server/bin/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)

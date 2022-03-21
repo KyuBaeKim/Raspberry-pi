@@ -21,3 +21,39 @@
 [Info  - 09:29:13] (6025) [IDX(2)] Long operation: index execution environment /home/pi (3631ms)
 [Info  - 09:29:13] (6025) [IDX(2)] Long operation: index libraries /home/pi (4903ms)
 [Info  - 09:29:13] (6025) Indexer done(2). indexed 448 files
+[Info  - 09:43:09] (6025) Searching for source files
+[Info  - 09:43:09] (6025) Found 60 source files
+[Info  - 09:47:21] (6025) Searching for source files
+[Info  - 09:47:21] (6025) Found 60 source files
+[Info  - 09:47:58] (6025) Searching for source files
+[Info  - 09:47:58] (6025) Found 60 source files
+[Info  - 09:47:59] (6025) Searching for source files
+[Info  - 09:47:59] (6025) Found 60 source files
+[Info  - 09:48:00] (6025) Searching for source files
+[Info  - 09:48:00] (6025) Found 60 source files
+[Info  - 09:48:01] (6025) Searching for source files
+[Info  - 09:48:01] (6025) Found 60 source files
+[Info  - 09:48:04] (6025) Searching for source files
+[Info  - 09:48:05] (6025) Found 60 source files
+[Info  - 09:48:08] (6025) Searching for source files
+[Info  - 09:48:08] (6025) Found 60 source files
+[Info  - 09:48:08] (6025) Searching for source files
+[Info  - 09:48:08] (6025) Found 60 source files
+[Info  - 09:48:10] (6025) Searching for source files
+[Info  - 09:48:10] (6025) Found 71 source files
+[Info  - 09:48:11] (6025) Searching for source files
+[Info  - 09:48:11] (6025) Found 71 source files
+[Info  - 10:17:31] (6025) Searching for source files
+[Info  - 10:17:31] (6025) Found 72 source files
+[Info  - 10:25:33] (6025) Searching for source files
+[Info  - 10:25:33] (6025) Found 73 source files
+[Info  - 10:26:38] (6025) Searching for source files
+[Info  - 10:26:38] (6025) Found 73 source files
+[Info  - 10:26:45] (6025) Searching for source files
+[Info  - 10:26:45] (6025) Found 73 source files
+[Info  - 10:29:19] (6025) Searching for source files
+[Info  - 10:29:19] (6025) Found 74 source files
+[Info  - 13:03:32] (6025) Searching for source files
+[Info  - 13:03:32] (6025) Found 75 source files
+[Info  - 13:08:35] (6025) Searching for source files
+[Info  - 13:08:35] (6025) Found 76 source files

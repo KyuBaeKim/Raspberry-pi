@@ -20,9 +20,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.connect((HOST, PORT))
         fileSize = os.path.getsize(FILE_PATH) # 파일의 size 크기를 int 사이즈로 받는다.
 
-        # 파일 크기 전송
+        # 파일명, 파일 크기 전송
+        file_name = FILE_PATH.split('/')[-1]
         print("전송 파일 크기", fileSize)
-        s.sendall(str(fileSize).encode())
+        s.sendall(f'{file_name}/{fileSize}'.encode())
 
         # 준비 상태 수신
         isready = s.recv(1024).decode()

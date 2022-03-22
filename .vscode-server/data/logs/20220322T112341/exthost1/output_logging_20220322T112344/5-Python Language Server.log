@@ -21,3 +21,9 @@
 [Info  - 11:24:00] (1768) [IDX(2)] Long operation: index execution environment /home/pi (3677ms)
 [Info  - 11:24:00] (1768) [IDX(2)] Long operation: index libraries /home/pi (4928ms)
 [Info  - 11:24:00] (1768) Indexer done(2). indexed 448 files
+[Info  - 14:18:21] (1768) Searching for source files
+[Info  - 14:18:21] (1768) Found 80 source files
+[Info  - 14:18:25] (1768) Searching for source files
+[Info  - 14:18:25] (1768) Found 80 source files
+[Info  - 14:18:34] (1768) Searching for source files
+[Info  - 14:18:34] (1768) Found 81 source files

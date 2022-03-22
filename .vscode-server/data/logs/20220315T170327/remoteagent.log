@@ -1,6 +1,0 @@
-[2022-03-15 17:03:28.282] [remoteagent] [info] Extension host agent started.
-[2022-03-15 17:03:28.357] [remoteagent] [info] [127.0.0.1][d6603b2f][ExtensionHostConnection] New connection established.
-[2022-03-15 17:03:28.369] [remoteagent] [info] [127.0.0.1][d6603b2f][ExtensionHostConnection] <1667> Launched Extension Host Process.
-[2022-03-15 17:03:28.383] [remoteagent] [info] [127.0.0.1][ef74bf03][ManagementConnection] New connection established.
-[2022-03-15 18:10:37.407] [remoteagent] [info] [127.0.0.1][d6603b2f][ExtensionHostConnection] The client has reconnected.
-[2022-03-15 18:10:48.502] [remoteagent] [info] [127.0.0.1][ef74bf03][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

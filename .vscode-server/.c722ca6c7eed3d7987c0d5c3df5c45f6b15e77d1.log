@@ -5,23 +5,10 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:35375 (IPv4)
-Extension host agent listening on 35375
+Server bound to 127.0.0.1:46361 (IPv4)
+Extension host agent listening on 46361
 
-[09:12:15] Extension host agent started.
-[09:12:16] [127.0.0.1][17021fa3][ManagementConnection] New connection established.
-[09:12:16] [127.0.0.1][7068d549][ExtensionHostConnection] New connection established.
-[09:12:16] [127.0.0.1][7068d549][ExtensionHostConnection] <1735> Launched Extension Host Process.
-[09:12:27] [127.0.0.1][17021fa3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[09:12:27] [127.0.0.1][7068d549][ExtensionHostConnection] <1735> Extension Host Process exited with code: 0, signal: null.
-Last EH closed, waiting before shutting down
-[09:12:27] Last EH closed, waiting before shutting down
-Got delay-shutdown request while in shutdown timeout, delaying
-[09:12:35] Got delay-shutdown request while in shutdown timeout, delaying
-Cancelling previous shutdown timeout
-[09:12:35] Cancelling previous shutdown timeout
-[09:12:35] [127.0.0.1][a6b0d502][ManagementConnection] New connection established.
-[09:12:35] [127.0.0.1][8579d675][ExtensionHostConnection] New connection established.
-[09:12:35] [127.0.0.1][8579d675][ExtensionHostConnection] <1837> Launched Extension Host Process.
-New EH opened, aborting shutdown
-[09:17:35] New EH opened, aborting shutdown
+[11:23:41] Extension host agent started.
+[11:23:42] [127.0.0.1][625f9eda][ManagementConnection] New connection established.
+[11:23:42] [127.0.0.1][f40d7da5][ExtensionHostConnection] New connection established.
+[11:23:42] [127.0.0.1][f40d7da5][ExtensionHostConnection] <1645> Launched Extension Host Process.

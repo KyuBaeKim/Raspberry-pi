@@ -1,0 +1,18 @@
+[2022-03-22 11:23:44.654] [exthost] [info] Extension host with pid 1645 started
+[2022-03-22 11:23:44.663] [exthost] [error] Error: EEXIST: file already exists, open '/home/pi/.vscode-server/data/User/workspaceStorage/390b2b8d1559b8a1fc0892202a598e1e/vscode.lock'
+[2022-03-22 11:23:44.667] [exthost] [info] Lock '/home/pi/.vscode-server/data/User/workspaceStorage/390b2b8d1559b8a1fc0892202a598e1e/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-03-22 11:23:44.674] [exthost] [info] Lock '/home/pi/.vscode-server/data/User/workspaceStorage/390b2b8d1559b8a1fc0892202a598e1e/vscode.lock': The pid 1837 appears to be gone.
+[2022-03-22 11:23:44.674] [exthost] [info] Lock '/home/pi/.vscode-server/data/User/workspaceStorage/390b2b8d1559b8a1fc0892202a598e1e/vscode.lock': Deleting a stale lock.
+[2022-03-22 11:23:44.691] [exthost] [info] Lock '/home/pi/.vscode-server/data/User/workspaceStorage/390b2b8d1559b8a1fc0892202a598e1e/vscode.lock': Lock acquired.
+[2022-03-22 11:23:44.830] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2022-03-22 11:23:45.655] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-22 11:23:46.860] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-22 11:23:46.873] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-22 11:23:46.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-22 11:23:47.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-22 11:23:47.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-22 11:23:48.241] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-03-22 11:23:48.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 11:23:48.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 11:23:48.611] [exthost] [info] Eager extensions activated
+[2022-03-22 11:23:49.182] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

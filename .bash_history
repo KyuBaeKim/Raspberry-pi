@@ -189,3 +189,43 @@ cd workspace/thread_ex/
 python ex01.py
 cd workspace/Opencv/
 /usr/bin/python /home/pi/workspace/Opencv/ex07_4.py
+cd workspace/Opencv/
+/usr/bin/python /home/pi/workspace/Opencv/ex07_4.py
+git --list
+git config -list
+git config --list
+git remote add origin https://github.com/KyuBaeKim/Raspberry-pi.git
+git remote add main https://github.com/KyuBaeKim/Raspberry-pi.git
+git add all
+git add --all
+git pull
+git config
+git config --global qbae kkyub5118@gmail.com
+git config --global user.email  kkyub5118@gmail.com
+git config --global user.name  qbae
+cat ~/.gitconfig
+cd workspace/thread_ex/
+/usr/bin/python /home/pi/workspace/thread_ex/ex02.py
+git clone https://github.com/KyuBaeKim/Raspberry-pi.git
+git push -u origin main
+git remote add origin https://github.com/KyuBaeKim/Raspberry-pi.git
+/usr/bin/python /home/pi/workspace/thread_ex/ex02.py
+/usr/bin/python /home/pi/workspace/thread_ex/ex03.py
+/usr/bin/python /home/pi/workspace/thread_ex/test.py
+/usr/bin/python /home/pi/workspace/thread_ex/producer.py
+/usr/bin/python /home/pi/workspace/thread_ex/test2.py
+/usr/bin/python /home/pi/workspace/thread_ex/timer_ex01.py
+/usr/bin/python /home/pi/workspace/Opencv/ex07_4.py
+cd workspace/Opencv/
+/usr/bin/python /home/pi/workspace/Opencv/ex07_4.py
+/usr/bin/python/usr/bin/python /home/pi/workspace/Opencv/ex07_4.py
+client_socket =socket.socket(socket.AF_INET, socket.SOCK_STREA)
+/usr/bin/python /home/pi/workspace/client_ex/echo_client.py
+git push
+git remote add origin https://github.com/KyuBaeKim/Raspberry-pi.git
+git push
+git push origin main
+git push origin master
+git config --list
+git config --global user.email kkyub5118@gmail.com
+git log --pretty=format:"%h = %an , %ar : %s" --graph

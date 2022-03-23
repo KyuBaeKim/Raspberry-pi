@@ -5,10 +5,10 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:46361 (IPv4)
-Extension host agent listening on 46361
+Server bound to 127.0.0.1:38649 (IPv4)
+Extension host agent listening on 38649
 
-[11:23:41] Extension host agent started.
-[11:23:42] [127.0.0.1][625f9eda][ManagementConnection] New connection established.
-[11:23:42] [127.0.0.1][f40d7da5][ExtensionHostConnection] New connection established.
-[11:23:42] [127.0.0.1][f40d7da5][ExtensionHostConnection] <1645> Launched Extension Host Process.
+[09:06:49] Extension host agent started.
+[09:06:50] [127.0.0.1][f356392a][ManagementConnection] New connection established.
+[09:06:50] [127.0.0.1][2c99bbd8][ExtensionHostConnection] New connection established.
+[09:06:50] [127.0.0.1][2c99bbd8][ExtensionHostConnection] <1498> Launched Extension Host Process.

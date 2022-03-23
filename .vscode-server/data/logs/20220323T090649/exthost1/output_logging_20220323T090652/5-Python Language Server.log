@@ -1,0 +1,50 @@
+[Info  - 09:06:59] (1679) Pylance language server 2022.3.2 (pyright d2d8122b) starting
+[Info  - 09:07:00] (1679) Server root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist
+[Info  - 09:07:00] (1679) No configuration file found.
+[Info  - 09:07:00] (1679) No pyproject.toml file found.
+[Info  - 09:07:00] (1679) Setting pythonPath for service "pi": "/usr/bin/python"
+[Warn  - 09:07:00] (1679) stubPath /home/pi/typings is not a valid directory.
+[Info  - 09:07:00] (1679) Assuming Python version 3.9
+[Info  - 09:07:00] (1679) Assuming Python platform Linux
+[Warn  - 09:07:01] (1679) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:07:01] (1679) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:07:02] (1679) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:07:02] (1679) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:07:02] (1679) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 09:07:02] (1679) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 09:07:02] (1679) Searching for source files
+[Info  - 09:07:02] (1679) Found 84 source files
+[Info  - 09:07:03] (1679) Background analysis(1) root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist
+[Info  - 09:07:03] (1679) Background analysis(1) started
+[Info  - 09:07:03] (1679) Indexer background runner(2) root directory: /home/pi/.vscode-server/extensions/ms-python.vscode-pylance-2022.3.2/dist (index)
+[Info  - 09:07:03] (1679) Indexing(2) started
+[Info  - 09:07:05] (1679) [BG(1)] Long operation: analyzing: /home/pi/workspace/send_file/file_sender3.py (2106ms)
+[Info  - 09:07:08] (1679) [IDX(2)] Long operation: index execution environment /home/pi (3756ms)
+[Info  - 09:07:08] (1679) [IDX(2)] Long operation: index libraries /home/pi (5066ms)
+[Info  - 09:07:08] (1679) Indexer done(2). indexed 448 files
+[Info  - 09:11:23] (1679) Searching for source files
+[Info  - 09:11:23] (1679) Found 84 source files
+[Info  - 09:11:29] (1679) Searching for source files
+[Info  - 09:11:29] (1679) Found 84 source files
+[Info  - 09:11:30] (1679) Searching for source files
+[Info  - 09:11:30] (1679) Found 84 source files
+[Info  - 09:21:40] (1679) Searching for source files
+[Info  - 09:21:40] (1679) Found 84 source files
+[Info  - 09:21:48] (1679) Searching for source files
+[Info  - 09:21:48] (1679) Found 85 source files
+[Info  - 09:22:11] (1679) Searching for source files
+[Info  - 09:22:11] (1679) Found 85 source files
+[Info  - 09:40:32] (1679) Searching for source files
+[Info  - 09:40:32] (1679) Found 86 source files
+[Info  - 10:02:08] (1679) Searching for source files
+[Info  - 10:02:08] (1679) Found 87 source files
+[Info  - 10:10:50] (1679) Searching for source files
+[Info  - 10:10:50] (1679) Found 88 source files
+[Info  - 10:10:56] (1679) Searching for source files
+[Info  - 10:10:56] (1679) Found 89 source files
+[Info  - 10:17:53] (1679) Searching for source files
+[Info  - 10:17:53] (1679) Found 90 source files
+[Info  - 10:38:59] (1679) Searching for source files
+[Info  - 10:38:59] (1679) Found 91 source files
+[Info  - 11:03:11] (1679) Searching for source files
+[Info  - 11:03:11] (1679) Found 92 source files

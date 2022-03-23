@@ -229,3 +229,12 @@ git push origin master
 git config --list
 git config --global user.email kkyub5118@gmail.com
 git log --pretty=format:"%h = %an , %ar : %s" --graph
+ls/dev/video*
+sudo raspi-config
+ls/dev/video*
+ls/dev/video
+ls/dev/video*
+raspistill -v -o test.jpg
+ls /dev/video*
+raspistill -v -o test.jpg
+sudo raspi-config

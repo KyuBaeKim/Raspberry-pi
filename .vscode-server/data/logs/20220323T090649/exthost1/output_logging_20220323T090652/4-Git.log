@@ -15273,3 +15273,22 @@
 [2022-03-23T08:21:15.341Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
 [2022-03-23T08:21:15.342Z] > git remote --verbose [4ms]
 [2022-03-23T08:21:20.510Z] > git config --get commit.template [16ms]
+[2022-03-23T08:21:24.939Z] > git add -A -- . [4106ms]
+[2022-03-23T08:21:26.113Z] > git add -A -- . [4ms]
+[2022-03-23T08:21:26.113Z] fatal: Unable to create '/home/pi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[2022-03-23T08:21:26.233Z] > git add -A -- . [39ms]
+[2022-03-23T08:21:26.233Z] fatal: Unable to create '/home/pi/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[2022-03-23T08:21:26.252Z] > git ls-files --stage -- /home/pi/workspace/iot_server/mjpeg/views.py [21ms]
+[2022-03-23T08:21:26.288Z] > git cat-file -s d4cb126c1dd92103db88a20fced39b231971ac03 [4ms]

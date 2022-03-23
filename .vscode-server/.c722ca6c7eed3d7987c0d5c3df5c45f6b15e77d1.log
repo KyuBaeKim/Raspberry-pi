@@ -12,3 +12,65 @@ Extension host agent listening on 38649
 [09:06:50] [127.0.0.1][f356392a][ManagementConnection] New connection established.
 [09:06:50] [127.0.0.1][2c99bbd8][ExtensionHostConnection] New connection established.
 [09:06:50] [127.0.0.1][2c99bbd8][ExtensionHostConnection] <1498> Launched Extension Host Process.
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8000
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8000
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8000
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8000
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8000
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8000
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8000
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8000
+}
+Error: write ETIMEDOUT
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16) {
+  errno: -110,
+  code: 'ETIMEDOUT',
+  syscall: 'write'
+}
+Error: write ETIMEDOUT
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16) {
+  errno: -110,
+  code: 'ETIMEDOUT',
+  syscall: 'write'
+}
+Error: write ETIMEDOUT
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16) {
+  errno: -110,
+  code: 'ETIMEDOUT',
+  syscall: 'write'
+}
